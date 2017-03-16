@@ -1,4 +1,4 @@
-var myTestFoo = require('../js/module.js');
+var myTestFoo = require('../module.js');
 
 describe("myTestFoo", function() {
 
